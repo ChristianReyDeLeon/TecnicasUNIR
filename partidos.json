@@ -1,0 +1,32 @@
+[
+   {
+      "partido":"PP",
+      "mediaAutoubicacion":800,
+      "votantes":300,
+      "nsnc":302
+   },
+   {
+      "partido":"PSOE",
+      "mediaAutoubicacion":500,
+      "votantes":450,
+      "nsnc":260
+   },
+   {
+      "partido":"No votaría",
+      "mediaAutoubicacion":100,
+      "votantes":300,
+      "nsnc":638
+   },
+   {
+      "partido":"No sabe todavía",
+      "mediaAutoubicacion":1000,
+      "votantes":550,
+      "nsnc":786
+   },
+   {
+      "partido":"N.C.",
+      "mediaAutoubicacion":100,
+      "votantes":300,
+      "nsnc":340
+   }
+]
