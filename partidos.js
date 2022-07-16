@@ -1,32 +1,32 @@
 [
    {
       "partido":"PP",
-      "mediaAutoubicacion":7.09,
-      "votantes":2509,
+      "mediaAutoubicacion":800,
+      "votantes":300,
       "nsnc":302
    },
    {
       "partido":"PSOE",
-      "mediaAutoubicacion":3.81,
-      "votantes":2330,
+      "mediaAutoubicacion":500,
+      "votantes":450,
       "nsnc":260
    },
    {
       "partido":"No votaría",
-      "mediaAutoubicacion":4.62,
-      "votantes":760,
+      "mediaAutoubicacion":100,
+      "votantes":300,
       "nsnc":638
    },
    {
       "partido":"No sabe todavía",
-      "mediaAutoubicacion":4.59,
-      "votantes":2541,
+      "mediaAutoubicacion":1000,
+      "votantes":550,
       "nsnc":786
    },
    {
       "partido":"N.C.",
-      "mediaAutoubicacion":4.75,
-      "votantes":733,
+      "mediaAutoubicacion":100,
+      "votantes":300,
       "nsnc":340
    }
 ]
